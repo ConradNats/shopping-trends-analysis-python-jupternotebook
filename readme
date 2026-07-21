@@ -1,0 +1,30 @@
+# Shopping Trends Analysis
+
+## Project Overview
+Brief description of the dataset and goals.
+
+## Dataset
+Source and columns used.
+
+## Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+
+## Visualizations
+- Revenue by Category
+- Revenue by Season
+- Age Distribution
+- Correlation Heatmap
+- Top Purchased Items
+- Customer Demographics
+
+## Key Insights
+Summarize the main findings from your analysis.
+
+## Future Improvements
+- Build an interactive dashboard with Streamlit or Dash
+- Train a machine learning model to predict purchase behavior
