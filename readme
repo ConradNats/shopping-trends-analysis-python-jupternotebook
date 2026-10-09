@@ -4,7 +4,7 @@
 
 This repository contains an exploratory data analysis (EDA) project focused on understanding customer shopping behavior, spending patterns, and product trends. The analysis uses a shopping dataset to uncover insights about demographics, seasonal demand, top-selling categories, and revenue drivers. The project is designed to help answer practical business questions such as:
 
-- Who are the customers?
+- Who are the customers?        
 - What products are most commonly purchased?
 - Which categories generate the most revenue?
 - How do shopping habits vary by age, gender, and season?
